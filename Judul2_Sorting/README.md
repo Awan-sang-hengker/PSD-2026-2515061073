@@ -62,3 +62,34 @@ Source :
 51. Mengecek apakah file dijalankan sebagai program utama.
 52. Jalankan fungsi utama.
 
+Output
+
+Setelah di run :
+<img width="578" height="42" alt="image" src="https://github.com/user-attachments/assets/faab2186-c71e-4193-aafa-e81cea8552c3" />
+
+Jika input tidak valid (bukan angka) :
+<img width="603" height="38" alt="image" src="https://github.com/user-attachments/assets/0e4009c0-7c1f-4a64-8c99-c808487166ab" />
+
+Jika input valid (memasukkan angka "5") :
+<img width="562" height="99" alt="image" src="https://github.com/user-attachments/assets/81925889-1b09-42c4-9962-320ba1bae1e4" />
+
+Setelah memasukkan nama transaksi ("jual ayam") :
+<img width="559" height="73" alt="image" src="https://github.com/user-attachments/assets/dc11f4fa-eb76-4df8-b7a4-cb21502378b5" />
+
+Jika input profit tidak valid (bukan angka) :
+<img width="424" height="94" alt="image" src="https://github.com/user-attachments/assets/0aa46a42-0eef-4e3c-9f3b-eb7bda03a7c7" />
+
+
+Jika input profit valid (memasukkan nominal profit) :
+<img width="559" height="118" alt="image" src="https://github.com/user-attachments/assets/7af11afb-be59-448b-9eb2-e3ff8f4db7e4" />
+maka lanjut ke transaksi ke 2, dan ketika transaksi ke 2 berhasil di inputkan dengan benar, maka akan lanjut ke transaksi ke 3,
+begitupun selanjutnya hingga transaksi ke 5.
+
+Setelah semua input berhasil dan sesuai dengan program :
+<img width="594" height="250" alt="image" src="https://github.com/user-attachments/assets/fdfe700d-9408-43b0-b300-fc98fdec380d" />
+
+Link Youtube:
+https://youtu.be/4cpdbs2gjh4
+
+Thumbnail:
+<img width="1376" height="768" alt="Gemini_Generated_Image_w8cmisw8cmisw8cm" src="https://github.com/user-attachments/assets/9da89935-c16c-4b66-a3d8-066cf53f7aa3" />
