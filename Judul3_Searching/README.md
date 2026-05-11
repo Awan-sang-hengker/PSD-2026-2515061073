@@ -104,5 +104,7 @@ Jika yang dicari full judul film :
 <img width="520" height="294" alt="image" src="https://github.com/user-attachments/assets/72103ec7-e711-40ef-b2e6-130af29b8624" />
 
 Link Youtube :
+https://youtu.be/VOGOIPk9ZM8
 
 Thumbnail :
+<img width="1365" height="767" alt="Screenshot 2026-05-11 225938" src="https://github.com/user-attachments/assets/bd060bc9-9ae2-4798-9e69-45d36259c7bd" />
