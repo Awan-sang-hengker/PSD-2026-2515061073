@@ -107,3 +107,44 @@ Source :
 97. Mengecek apakah file dijalankan langsung sebagai program utama.
 98. Menjalankan fungsi main().
 
+Output
+
+Setelah di run : 
+<img width="464" height="235" alt="image" src="https://github.com/user-attachments/assets/64b841ab-dfab-4656-a1f2-ed08b85b0ec0" />
+
+Jika pilihan tidak valid :
+<img width="402" height="71" alt="image" src="https://github.com/user-attachments/assets/0e0bcd54-0e57-4a61-ae04-061ded296507" />
+
+pilihan 1 :
+<img width="404" height="62" alt="image" src="https://github.com/user-attachments/assets/2c10867e-239d-4c62-85a2-3dfe71c77e3c" />
+
+Setelah masukkan lagu:
+<img width="664" height="289" alt="image" src="https://github.com/user-attachments/assets/95fd0d34-3aee-43b7-b592-e3bbb263b3f5" />
+
+Pilihan 2 :
+<img width="474" height="76" alt="image" src="https://github.com/user-attachments/assets/3f6fbe16-1509-4f94-b942-69525a4ae347" />
+
+Jika Playlist kosong :
+<img width="398" height="68" alt="image" src="https://github.com/user-attachments/assets/b1a28d20-3cd7-4f94-ba8f-6389691594d9" />
+
+Pilihan 3 :
+<img width="450" height="74" alt="image" src="https://github.com/user-attachments/assets/1ecd515f-3cd2-42ae-944c-fd2cf4f0fc28" />
+
+Jika Playlist kosong :
+<img width="488" height="83" alt="image" src="https://github.com/user-attachments/assets/504cfea0-2d8a-4a3d-82db-f827ee974fd9" />
+
+Pilihan 4 :
+<img width="653" height="92" alt="image" src="https://github.com/user-attachments/assets/1b473e2a-b0e6-4389-8d61-5977aac268f2" />
+
+Jika Playlist kosong :
+<img width="488" height="83" alt="image" src="https://github.com/user-attachments/assets/25dc6593-a94a-4dca-bf63-d26b53a60701" />
+
+Pilihan 5 :
+<img width="519" height="83" alt="image" src="https://github.com/user-attachments/assets/9c8d98be-e498-47e8-8d21-87a17651d2d8" />
+
+Pilihan 6 :
+<img width="510" height="73" alt="image" src="https://github.com/user-attachments/assets/d436bfc7-7313-4fb2-83c8-98a9684caa88" />
+
+Link Youtube :
+
+Thumbnail :
