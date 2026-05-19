@@ -146,5 +146,7 @@ Pilihan 6 :
 <img width="510" height="73" alt="image" src="https://github.com/user-attachments/assets/d436bfc7-7313-4fb2-83c8-98a9684caa88" />
 
 Link Youtube :
+https://youtu.be/l1HOe5aL8zg
 
 Thumbnail :
+<img width="1365" height="714" alt="image" src="https://github.com/user-attachments/assets/e2f5c6ae-86f6-4ed0-b1f9-826cacb8cb90" />
