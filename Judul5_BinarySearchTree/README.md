@@ -1,4 +1,4 @@
-Judul program: Mengimplementasikan Binary Search Tree menjadi WTCS (War Thunder Championship Series) Leaderboard
+Judul Program: Mengimplementasikan Binary Search Tree menjadi WTCS (War Thunder Championship Series) Leaderboard
 
 Program ini bertujuan untuk menjalankan algoritma Binary Search Tree menjadi leaderboard untuk turnamen dari game
 War Thunder yang berjudul WTCS atau War Thunder Championship Series. Pada program ini mengubah data acak dengan 
