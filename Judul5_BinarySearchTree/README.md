@@ -269,6 +269,10 @@ Setelah di run:
 
 <img width="657" height="256" alt="image" src="https://github.com/user-attachments/assets/f9e0e5d7-1991-4eb5-ae9a-8573ea2ce404" />
 
+Jika pilihan tidak valid:
+
+<img width="315" height="86" alt="image" src="https://github.com/user-attachments/assets/5a54612b-dbfa-4861-8eb5-ea5651811d50" />
+
 Jika input tidak valid:
 
 <img width="236" height="40" alt="image" src="https://github.com/user-attachments/assets/60ead2cd-9565-446e-8b5a-0bad53ff6080" />
