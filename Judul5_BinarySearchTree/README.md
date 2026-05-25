@@ -1,6 +1,15 @@
-Judul program:
+Judul program: Mengimplementasikan Binary Search Tree menjadi WTCS (War Thunder Championship Series) Leaderboard
 
+Program ini bertujuan untuk menjalankan algoritma Binary Search Tree menjadi leaderboard untuk turnamen dari game
+War Thunder yang berjudul WTCS atau War Thunder Championship Series. Pada program ini mengubah data acak dengan 
+poin dari masing masing tim sebagai acuan yang teratas. Setiap node menyimpan nama tim dan poin tim, lalu data 
+disusun berdasarkan besar kecilnya poin. Jika poin lebih kecil maka data disimpan di subtree kiri, sedangkan jika
+poin lebih besar disimpan di subtree kanan. Dengan cara ini, proses pencarian, penambahan, dan penghapusan data
+dapat dilakukan lebih cepat dibanding pencarian biasa pada list.
 
+Program memiliki beberapa fitur seperti menambahkan tim, menghapus tim, menampilkan leaderboard berdasarkan poin
+tertinggi, menghitung tinggi pohon BST, serta mencari successor dan predecessor dari suatu poin. Leaderboard 
+ditampilkan menggunakan traversal inorder descending sehingga tim dengan poin tertinggi muncul lebih dulu.
 
 Source:
 <img width="1462" height="10020" alt="Sc TA PSD 5 rill" src="https://github.com/user-attachments/assets/b8712919-58a8-45cc-abc5-c8df933a37e2" />
@@ -257,3 +266,18 @@ Source:
 250.	Mengecek apakah file dijalankan langsung.
 251.	Menjalankan fungsi main().
 
+Output
+
+
+
+
+
+
+
+
+
+
+
+Link Youtube:
+
+Thumbnail:
