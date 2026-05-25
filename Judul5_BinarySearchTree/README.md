@@ -265,16 +265,66 @@ Source:
 
 Output
 
+Setelah di run:
+
+<img width="657" height="256" alt="image" src="https://github.com/user-attachments/assets/f9e0e5d7-1991-4eb5-ae9a-8573ea2ce404" />
+
+Jika input tidak valid:
+
+<img width="236" height="40" alt="image" src="https://github.com/user-attachments/assets/60ead2cd-9565-446e-8b5a-0bad53ff6080" />
+
+Pilih 1:
+
+<img width="305" height="71" alt="image" src="https://github.com/user-attachments/assets/86a35949-a243-48ec-abb6-e19c5f57ffec" />
+
+Setelah mengisi nama tim:
+
+<img width="270" height="75" alt="image" src="https://github.com/user-attachments/assets/7dbc9572-dcc8-49be-97d1-0d8fd5cea65d" />
+
+Setelah mengisi poin tim:
+
+<img width="311" height="55" alt="image" src="https://github.com/user-attachments/assets/6e087455-e504-4d7c-93cb-4c71af8e9727" />
+
+Pilih 2:
+
+<img width="255" height="69" alt="image" src="https://github.com/user-attachments/assets/ad9a6166-2e3c-494e-89a7-2d54be048141" />
+
+Setelah mengisi poin yang ingin dihapus:
+
+<img width="360" height="60" alt="image" src="https://github.com/user-attachments/assets/c43bef34-8c5c-4b53-8098-be5664d65082" />
 
 
 
+Pilih 3:
 
+<img width="403" height="168" alt="image" src="https://github.com/user-attachments/assets/9090e499-6c0a-4285-9338-1b6076b7b3f6" />
 
+Pilih 4:
 
+<img width="272" height="74" alt="image" src="https://github.com/user-attachments/assets/a45d2092-5ad6-4611-85fb-9efcde8608ca" />
 
+Pilih 5:
 
+<img width="361" height="65" alt="image" src="https://github.com/user-attachments/assets/47ff76f2-9769-4557-ad6c-e705e0e6c74f" />
+
+Setelah isi cari successor dari poin:
+
+<img width="360" height="92" alt="image" src="https://github.com/user-attachments/assets/323c77d4-8bb4-4644-90c6-3863fabf99fd" />
+
+Pilih 6:
+
+<img width="307" height="69" alt="image" src="https://github.com/user-attachments/assets/4e22992b-bbc8-4ec8-aa4a-a5a2d2a11847" />
+
+Setelah isi cari predecessor dari poin:
+
+<img width="389" height="73" alt="image" src="https://github.com/user-attachments/assets/28743367-199d-43f6-9b6b-924d8a8428b9" />
+
+Pilih 7:
+
+<img width="329" height="84" alt="image" src="https://github.com/user-attachments/assets/9f473e80-2ce5-4fa2-8e98-02bc810bcefd" />
 
 
 Link Youtube:
+
 
 Thumbnail:
