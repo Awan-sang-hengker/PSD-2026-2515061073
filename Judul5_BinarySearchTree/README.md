@@ -7,11 +7,8 @@ disusun berdasarkan besar kecilnya poin. Jika poin lebih kecil maka data disimpa
 poin lebih besar disimpan di subtree kanan. Dengan cara ini, proses pencarian, penambahan, dan penghapusan data
 dapat dilakukan lebih cepat dibanding pencarian biasa pada list.
 
-Program memiliki beberapa fitur seperti menambahkan tim, menghapus tim, menampilkan leaderboard berdasarkan poin
-tertinggi, menghitung tinggi pohon BST, serta mencari successor dan predecessor dari suatu poin. Leaderboard 
-ditampilkan menggunakan traversal inorder descending sehingga tim dengan poin tertinggi muncul lebih dulu.
-
 Source:
+
 <img width="1462" height="10020" alt="Sc TA PSD 5 rill" src="https://github.com/user-attachments/assets/b8712919-58a8-45cc-abc5-c8df933a37e2" />
 
 1.	Mendefinisikan class TeamNode untuk membuat node BST.
