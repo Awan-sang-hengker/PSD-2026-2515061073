@@ -329,6 +329,8 @@ Pilih 7:
 
 
 Link Youtube:
-
+https://youtu.be/FXOl_HXcKn4
 
 Thumbnail:
+
+<img width="1365" height="740" alt="image" src="https://github.com/user-attachments/assets/dd284521-0f1c-4a6c-a08c-87e3e303f646" />
