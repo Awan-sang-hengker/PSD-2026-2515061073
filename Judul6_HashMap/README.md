@@ -144,7 +144,7 @@ Setelah di run:
 <img width="1340" height="879" alt="image" src="https://github.com/user-attachments/assets/236a3883-ef68-48d2-9539-69fdaf3db9f0" />
 
 Link Youtube:
-
+https://youtu.be/vC5MqBDVzvw
 
 Thumbnail:
 
