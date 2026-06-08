@@ -1,6 +1,6 @@
 Judul Program: Mengimplementasikan Hash Map untuk Inventory Minecraft dengan Open Addressing
 
-Program ini merupakan simulasi inventaris Minecraft yang menerapkan struktur data Hash Map 
+Program ini merupakan simulasi inventory Minecraft yang menerapkan struktur data Hash Map 
 dengan metode Open Addressing (Linear Probing). Program memungkinkan pengguna untuk 
 menambahkan, mencari, menghapus, dan menampilkan item dalam inventaris berdasarkan ID item. 
 Untuk mengatasi collision, program menggunakan teknik Linear Probing dengan memeriksa slot 
