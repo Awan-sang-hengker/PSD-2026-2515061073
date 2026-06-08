@@ -148,4 +148,4 @@ Link Youtube:
 
 Thumbnail:
 
-
+<img width="683" height="384" alt="Thumnail Judul 6" src="https://github.com/user-attachments/assets/5609e2b5-559a-4f86-b959-03fe38b02020" />
